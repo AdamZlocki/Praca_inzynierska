@@ -1,0 +1,20 @@
+mogę zastosować pszczeli algorytm
+Or-tools na google
+przegląd literautry
+
+projekty budowy w różnych regionach, koparki przydzielane do projektów, okno czasowe to start i koniec projektu
+
+1. wprowadzenie - 
+a) wprowadzenie do tematu - czym jest problem
+b) motywacja i znaczenie problemu naukowo i biznesowo
+c) zakres pracy
+d) struktura pracy
+2. przegląd literatury
+a) podstawowe pojęcia, klasyfikacja problemu (np), warianty
+b) opis problemu z oknami czasowymi i czasem seriwsowym
+c) rozwiązania najczęstsze metody, wymienić najpopulorniejsze, szerzej opisane te zastosowane, użyć co najmniej 2 w pracy
+3. Model matematyczny
+4. implementacja, narzędzia - pyhton i biblioteki, co zawarte, opis danych, opis wyników eksperymentów
+5. wyniki eksperymentów, porównanie algorytmów
+6. podsumowanie i wnioski
+
