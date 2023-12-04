@@ -2,6 +2,7 @@ from main import *
 from random import uniform
 from numpy import exp
 
+
 def simulated_anealing(graph: GraphMatrix, vehicles: List[Vehicle], num_of_iterations: int = 100,
                        num_of_attempt_on_each_temp=5, temp: float = 100, min_temp: float = 5, alfa: float = 0.98):
     counter_of_iterations = 0
